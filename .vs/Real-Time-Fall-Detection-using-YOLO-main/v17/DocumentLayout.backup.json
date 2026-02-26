@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDIO4\\Real-Time-Fall-Detection-using-YOLO-main\\Real-Time-Fall-Detection-using-YOLO-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDIO4\\Real-Time-Fall-Detection-using-YOLO-main\\Real-Time-Fall-Detection-using-YOLO-main\\demo.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:demo.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDIO4\\Real-Time-Fall-Detection-using-YOLO-main\\Real-Time-Fall-Detection-using-YOLO-main\\offline_video.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:offline_video.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo.py",
+              "DocumentMoniker": "D:\\CDIO4\\Real-Time-Fall-Detection-using-YOLO-main\\Real-Time-Fall-Detection-using-YOLO-main\\demo.py",
+              "RelativeDocumentMoniker": "demo.py",
+              "ToolTip": "D:\\CDIO4\\Real-Time-Fall-Detection-using-YOLO-main\\Real-Time-Fall-Detection-using-YOLO-main\\demo.py",
+              "RelativeToolTip": "demo.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-01T00:47:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "offline_video.py",
+              "DocumentMoniker": "D:\\CDIO4\\Real-Time-Fall-Detection-using-YOLO-main\\Real-Time-Fall-Detection-using-YOLO-main\\offline_video.py",
+              "RelativeDocumentMoniker": "offline_video.py",
+              "ToolTip": "D:\\CDIO4\\Real-Time-Fall-Detection-using-YOLO-main\\Real-Time-Fall-Detection-using-YOLO-main\\offline_video.py",
+              "RelativeToolTip": "offline_video.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-01T00:46:20.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
